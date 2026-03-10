@@ -1,0 +1,12 @@
+fastapi>=0.115.0,<1.0.0
+uvicorn[standard]>=0.30.0,<1.0.0
+httpx>=0.27.0,<1.0.0
+html2text>=2024.2.26,<2027.0.0
+python-dotenv>=1.0.1,<2.0.0
+PyYAML>=6.0.2,<7.0.0
+tiktoken>=0.8.0,<1.0.0
+langchain>=1.0.0,<2.0.0
+langchain-openai>=1.0.0,<2.0.0
+langchain-deepseek>=1.0.0,<2.0.0
+llama-index-core>=0.12.0,<0.13.0
+llama-index-embeddings-openai>=0.3.0,<0.4.0
