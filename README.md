@@ -2,7 +2,7 @@
 ![Architecture Diagram](d8c11e85b04d1fdc87c376cf8e36f0dc.jpg)
 ![Architecture Diagram](0b253ee89f527f37e5e02d7f12471436.jpg)
 ![Architecture Diagram](ecfd6a88a857621fcc269b4fa5948977.jpg)
-可在https://www.bilibili.com/video/BV1izcXz8EJx/?vd_source=af1143f8815e17a230561ad0ef6c689b观察视频
+可在https://www.bilibili.com/video/BV1izcXz8EJx/?vd_source=af1143f8815e17a230561ad0ef6c689b    观看视频
 一个本地运行、文件优先、可审计的 AI Agent 工作台。
 
 
